@@ -1,6 +1,6 @@
 ### Hi there, I'm Palash Ahmed - palahsu👋
 
-[![Website](https://img.shields.io/website?label=palahsu.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://palashgamertechnique.com)
+[![Website](https://img.shields.io/website?label=palashgamertechnique.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://palashgamertechnique.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/PalashGamer?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FPalashGamer&screen_name=PalashGamer)
 
 ## I'm a Student, Developer, Philoshoper!!
