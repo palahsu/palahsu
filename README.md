@@ -37,7 +37,7 @@ Thanks! :heart:
 [website]: https://codeSTACKr.com
 [course]: http://vsCodeHero.com
 [twitter]: https://twitter.com/codeSTACKr
+[gmail]: knoxdox4@gmail.com
 [youtube]: https://www.youtube.com/channel/UCk6XAWrjB16sizuG-s-TOuA
 [instagram]: https://instagram.com/
 [linkedin]: https://linkedin.com/in/
-[gmail]: knoxdox4@gmail.com
