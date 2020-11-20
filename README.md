@@ -22,10 +22,7 @@
 ---
 </details>
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="palahsu's GitHub Stats" src="https://github-readme-stats.palahsu.vercel.app/api?username=palahsu&show_icons=true&hide_border=true" />
+ <img scr = "https://github-readme-stats.vercel.app/api?username=palahsu&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
 </details>
 
