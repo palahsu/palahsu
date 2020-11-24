@@ -6,7 +6,7 @@
 ## Developer & Cyber Expert!
 
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2020-0000: Contribute more to Open Source projects.
+- ⚡: Contribute more to Open Source projects.
 - ⚡ Fun fact: What I expect, it is the opposite.
 
 ### Connect with me:
