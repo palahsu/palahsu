@@ -41,6 +41,6 @@ Thanks! :heart:
 [twitter]: https://twitter.com/palashgamer
 [gmail]: https://knoxdox4@gmail.com
 [youtube]: https://www.youtube.com/channel/UCk6XAWrjB16sizuG-s-TOuA
-[instagram]: https://instagram.com/
+[instagram]: https://instagram.com/springflower_palash
 [linkedin]: https://linkedin.com/in/
 [telegram]: https://t.me/AD0000000
