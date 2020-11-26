@@ -1,7 +1,7 @@
 ### Hi there, I'm Palash Ahmed - palahsu👋
 
 [![Website](https://img.shields.io/website?label=palashgamertechnique.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://palashgamertechnique.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/PalashGamer?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FPalashGamer&screen_name=PalashGamer)
+[![Twitter Follow](https://img.shields.io/twitter/follow/palahsu?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fpalahsu&screen_name=palahsu)
 
 ## Developer & Cyber Expert!
 
@@ -38,7 +38,7 @@ Thanks! :heart:
 </details>
 
 [website]: https://palashgamertechnique.blogspot.com
-[twitter]: https://twitter.com/palashgamer
+[twitter]: https://twitter.com/palahsu
 [gmail]: https://knoxdox4@gmail.com
 [youtube]: https://www.youtube.com/channel/UCk6XAWrjB16sizuG-s-TOuA
 [instagram]: https://instagram.com/springflower_palash
