@@ -1,7 +1,6 @@
 ### Hi there, I'm Palash Ahmed - palahsu👋
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/palahsu?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fpalahsu&screen_name=palahsu)
-[![instagram](https://img.shields.io/badge/instagram-follow-thepalashahmed?color=1DA1F2&logo=instagram&style=for-the-badge)](https://www.instagram.com/thepalashahmed/?original_referer=https%3A%2F%2Fgithub.com%2Fthepalashahmed&screen_name=thepalashahmed)
 
 ## Developer & Cyber Expert!
 
@@ -41,6 +40,5 @@ Thanks! :heart:
 [twitter]: https://twitter.com/palahsu
 [gmail]: https://knoxdox4@gmail.com
 [youtube]: https://www.youtube.com/channel/UCk6XAWrjB16sizuG-s-TOuA
-[instagram]: https://instagram.com/thepalashahmed
 [linkedin]: https://linkedin.com/in/
 [telegram]: https://t.me/AD0000000
