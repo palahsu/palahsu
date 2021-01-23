@@ -29,6 +29,8 @@
 I try to reply to everyone needing help using these projects or any other projects. Obviously. 
 You can use any tools for free and for any development or making projects just contact me.
 
+## For Contact
+
 [<img align="left" alt="palahsu | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
 
 
@@ -38,7 +40,7 @@ Thanks! :heart:
 
 [website]: https://palashgamertechnique.blogspot.com
 [twitter]: https://twitter.com/palahsu
-[gmail]: https://knoxdox4@gmail.com
+[gmail]: https://jk3502072@gmail.com
 [youtube]: https://www.youtube.com/channel/UCk6XAWrjB16sizuG-s-TOuA
 [linkedin]: https://linkedin.com/in/
 [telegram]: https://t.me/AD0000000
