@@ -8,7 +8,8 @@
 - ⚡: More Open Source projects.
 - ⚡ Fun fact: What I expect, it is the opposite.
 
-![usaa](https://user-images.githubusercontent.com/49250151/111861801-49f97500-897b-11eb-8db9-4a3c850c871e.GIF)
+![usha](https://user-images.githubusercontent.com/49250151/111861989-6c3fc280-897c-11eb-8ade-20e9ffd537bc.GIF)
+
 
 ### Connect with me:
 
