@@ -3,7 +3,7 @@
 ## Developer & Cyber Expert!
 
 - 🌱 I’m currently learning everything 🤣
-- ⚡: More Open Source projects.
+- ⚡: More Open Source Projects.
 - ⚡ Fun fact: What I expect, it is the opposite.
 
 ![usha](https://user-images.githubusercontent.com/49250151/111861989-6c3fc280-897c-11eb-8ade-20e9ffd537bc.GIF)
