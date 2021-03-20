@@ -43,4 +43,4 @@ Thanks! :heart:
 [gmail]: https://jk3502072@gmail.com
 [youtube]: https://www.youtube.com/channel/UCk6XAWrjB16sizuG-s-TOuA
 [linkedin]: https://linkedin.com/in/
-[telegram]: https://t.me/AD0000000
+[telegram]: https://t.me/cyberclans
