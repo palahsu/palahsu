@@ -8,6 +8,8 @@
 - ⚡: More Open Source projects.
 - ⚡ Fun fact: What I expect, it is the opposite.
 
+![usaa](https://user-images.githubusercontent.com/49250151/111861801-49f97500-897b-11eb-8db9-4a3c850c871e.GIF)
+
 ### Connect with me:
 
 [<img align="left" alt="palahsu | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
