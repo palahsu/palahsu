@@ -28,7 +28,7 @@
 I try to reply to everyone needing help using these projects or any other projects. Obviously. 
 You can use any tools for free and for any development or making projects just contact me.
 
-## For Contact
+## For Any Advertisement Contact with me:
 
 [<img align="left" alt="palahsu | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
 
